@@ -1,0 +1,2 @@
+Jan 27 12:00:01 labhost sshd[111]: Failed password for invalid user admin from 192.168.56.10 port 54321 ssh2
+Jan 27 12:00:02 labhost sshd[112]: Failed password for root from 192.168.56.10 port 54322 ssh2
